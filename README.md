@@ -1,4 +1,4 @@
 # New project
 
 this file was created by local system.
-Created by Khushi Kathane
+Created by Khushi Kathane.
